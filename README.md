@@ -39,5 +39,3 @@ Your data is valuable and private. The application features:
 •	Persistent Local Storage: Your data is saved directly in your browser, ensuring it's always available when you return.
 # Who Is It For?
 This tool is perfect for anyone—from students learning to budget, to families managing household expenses, to professionals aiming to optimize their investments—who wants to move beyond passive tracking and start actively planning their financial future. It provides the clarity and foresight needed to make informed financial decisions with confidence.
-
-<img width="451" height="692" alt="image" src="https://github.com/user-attachments/assets/1955f165-3c41-4b4f-8cbc-cda154358034" />
