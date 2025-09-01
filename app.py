@@ -11,9 +11,9 @@ st.sidebar.markdown(
 )
 
 try:
-    with open("index.html", "r", encoding="utf-8") as f:
+    with open("Financial Tracker.html", "r", encoding="utf-8") as f:
         html = f.read()
     # Render your HTML inside Streamlit
     st.components.v1.html(html, height=900, scrolling=True)
 except FileNotFoundError:
-    st.error("`index.html` not found in the repo root.")
+    st.error("`Financial Tracker.html` not found in the repo root.")
